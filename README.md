@@ -1,2 +1,6 @@
-# uk_house_market
-This repository contains the project about a macroec
+## Housing Market, Money, and the Effect of Monetary Policy in UK!
+
+When people buy or sell houses, either to live in or as an investment, we refer to this as the housing market. A house is the most valuable thing many people will ever own. The house market is one of the biggest in any developed country and therefore one of the most impactful.
+Previous studies had been conducted using the different models and variables, however, to our knowledge at the moment, none has considered the best theoretical approach to the inherent structure of the data. In fact, most models we based on our research used mostly VAR models. The purpose of this study is to in- vestigate key aspects of the UK house market. Our main objective is to understand the relationship be- tween the house prices and the monetary policy. This is done using quarterly data from 1975 to 2020 and developing a time series Vector Error Correction Model. This approach allows us to distinguish between statistical correlation and economic causation.
+From our final model, we find that the effect of a GDP on house prices is large, and the monetary policy shock is existent but not so relevant in the short-medium period while it increases in the long run but not as much as we would have expected. Shocks to the CPI and the interest rate are in turn found to have signifi- cant effects on house prices.
+Due to the large confidence bands of the impulse responses this result is, however, in general not statisti- cally significant. Further research should be conducted in order to better understand the effect of a market targeting monetary policy used to mitigate the economic uncertainty and unbalances.
